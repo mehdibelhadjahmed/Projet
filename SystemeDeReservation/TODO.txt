@@ -1,0 +1,19 @@
+Reste à faire:
+
+
+* Controller à faire au complet
+
+* Mettre des zones grisées pour les IDs, non modifiables. Voir ne pas les afficher.
+
+* Changer le design
+	* Voir pour ne pas appeler de nouvelles pages completes mais juste un affichage dynamique
+
+http://bootsnipp.com/forms
+
+* Faire en sorte de changer l'URL en fonction du résultat de la première page.
+
+
+Dans la HOME.JSP: 
+
+Faire en sorte qu'en fonction du choix de l'utilisateur on parte sur une page en particulier:
+Par exemple pour la création d'un employé on part sur /CreEmp
