@@ -1,4 +1,3 @@
-Projet
+Project 2013
 ======
-project 2013
-reservation system car by Laurent EHRHART and Mehdi BELHADJ AHMED
+Reservation system car by Laurent EHRHART and Mehdi BELHADJ AHMED
